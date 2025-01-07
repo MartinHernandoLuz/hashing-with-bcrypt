@@ -1,0 +1,17 @@
+{
+  "name": "hashing_with_bcript",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "keywords": [],
+  "author": "Martin Luz",
+  "license": "ISC",
+  "description": "hashing text from the console",
+  "main": "app.js",
+  "type": "module",
+  "dependencies": {
+    "bcryptjs": "2.4.3",
+    "prompts": "2.4.2"
+  }
+}
